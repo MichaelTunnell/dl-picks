@@ -10,3 +10,6 @@ Anyone who'd like to help is welcome to do so by forking this repo and making mo
 If you'd like to know how I convert the CSV/Markdown to HTML, I use the following command via the [Pandoc](https://pandoc.org) utility.
 
 `pandoc -f markdown --wrap=preserve dl-picks.csv > dl-picks.html`
+
+#### Screenshot
+[![Screenshot of the DL Picks page](https://raw.githubusercontent.com/MichaelTunnell/dl-picks/master/dl-picks-screenshot.jpg)](https://destinationlinux.org/picks)
